@@ -11,6 +11,7 @@ dependencies = [
     "langchain-azure-ai>=1.2.3",
     "langchain-google-genai>=4.2.7",
     "langchain-qdrant>=1.1.0",
+    "langchain-text-splitters>=1.1.2",
     "langfuse>=4.13.2",
     "python-dotenv>=1.2.2",
     "qdrant-client>=1.18.0",
